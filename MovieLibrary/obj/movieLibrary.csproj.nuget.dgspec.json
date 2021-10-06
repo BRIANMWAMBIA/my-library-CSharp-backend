@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\MovieLibrary.csproj": {}
+    "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\movieLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\MovieLibrary.csproj": {
+    "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\movieLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\MovieLibrary.csproj",
-        "projectName": "MovieLibrary",
-        "projectPath": "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\MovieLibrary.csproj",
+        "projectUniqueName": "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\movieLibrary.csproj",
+        "projectName": "movieLibrary",
+        "projectPath": "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\movieLibrary.csproj",
         "packagesPath": "C:\\Users\\Pius\\.nuget\\packages\\",
         "outputPath": "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\obj\\",
         "projectStyle": "PackageReference",
