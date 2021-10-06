@@ -1,4 +1,3 @@
-D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\bin\Release\net5.0\appsettings.Development.json
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\bin\Release\net5.0\appsettings.json
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\bin\Release\net5.0\movieLibrary.exe
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\bin\Release\net5.0\movieLibrary.deps.json

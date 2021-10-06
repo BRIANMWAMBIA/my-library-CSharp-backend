@@ -37,7 +37,6 @@ D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.js
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.map
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
-D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\obj\Release\net5.0\PubTmp\Out\appsettings.json
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\obj\Release\net5.0\PubTmp\Out\movieLibrary.dll
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\obj\Release\net5.0\PubTmp\Out\movieLibrary.runtimeconfig.json

@@ -1,22 +1,23 @@
 ﻿@model movieLibrary.Models.Movies.DetailsViewModel
 
-    <div class="card">
-        <div class="card-body movie">
-            <div class="title">
-                <h3 class="card-title">@Model.Title</h3>
-            </div>
-            <div>
-                <p> <h6>Type:</h6>@Model.Type </p>
-            </div>
-            <div>
-                <p> <h6>Category:</h6>@Model.Category</p>
-            </div>
-            <div>
-                <p> <h6>Description:</h6>@Model.Description </p>
-            </div>
-
-
-
-
+<div class="card">
+    <div class="card-body movie">
+        <div class="title">
+            <h3 class="card-title">@Model.Title</h3>
         </div>
-    </div>  
+        <div>
+            <p> <h6>Type:</h6>@Model.Type </p>
+        </div>
+        <div>
+            <p> <h6>Category:</h6>@Model.Category</p>
+        </div>
+        <div>
+            <p> <h6>Description:</h6>@Model.Description </p>
+        </div>
+
+
+
+
+    </div>
+    <a asp-controller="Movies" asp-action="Index">Back To List</a>
+</div>  

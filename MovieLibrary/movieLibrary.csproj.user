@@ -11,6 +11,6 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>False</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile>~/Views/Shared/_Layout.cshtml</WebStackScaffolding_LayoutPageFile>
     <WebStackScaffolding_DbContextTypeFullName>moviesData.moviesContext</WebStackScaffolding_DbContextTypeFullName>
-    <NameOfLastUsedPublishProfile>My-Library - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>mylibrary-api - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

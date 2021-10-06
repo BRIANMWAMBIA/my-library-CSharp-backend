@@ -156,7 +156,6 @@ D:\Nels\Projects\projects\MovieLibrary\movieLibrary\obj\Debug\net5.0\ref\movieLi
 D:\Nels\Projects\projects\MovieLibrary\movieLibrary\obj\Debug\net5.0\movieLibrary.pdb
 D:\Nels\Projects\projects\MovieLibrary\movieLibrary\obj\Debug\net5.0\movieLibrary.genruntimeconfig.cache
 D:\Nels\Projects\projects\MovieLibrary\movieLibrary\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
-D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\bin\Debug\net5.0\appsettings.Development.json
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\bin\Debug\net5.0\appsettings.json
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\bin\Debug\net5.0\movieLibrary.exe
 D:\Nels\Projects\projects\JoyMoviesLibrary\JoyMovieBackend\Backend\MovieLibrary\movieLibrary\bin\Debug\net5.0\movieLibrary.deps.json

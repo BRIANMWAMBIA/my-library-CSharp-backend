@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M6JJeanRdpuvAUc+acN47n57fQRl72EcjBCCpTnYCeFe6AFXB6X4z5ONz5ZiasyaHaJZgsOaMhzVvDQ9Fs1xuA==",
+  "dgSpecHash": "pI9IEAmObhhml8wtS+SrvwqcM6hYynPwANzN18+8CEnE1PL6Wxyq9opvySz/SCA9n+Xx9COhrgwPZV2NW2kGog==",
   "success": true,
-  "projectFilePath": "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\movieLibrary.csproj",
+  "projectFilePath": "D:\\Nels\\Projects\\projects\\JoyMoviesLibrary\\JoyMovieBackend\\Backend\\MovieLibrary\\movieLibrary\\MovieLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pius\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Pius\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
