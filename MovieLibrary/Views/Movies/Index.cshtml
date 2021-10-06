@@ -1,0 +1,38 @@
+﻿@model movieLibrary.Models.Movies.MoviesListingModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>watched</title>
+</head>
+<body>
+    
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Title</th>
+                <th scope="col">Category</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var movie in Model.movies)
+            {
+               
+                <tr>
+                  <td><a asp-controller="Movies" asp-action="Details" asp-route-id="@movie.id">@movie.Title</a></td> 
+                    <td>@movie.Category</td>
+                </tr>
+            
+            }
+        </tbody>
+
+    </table>
+
+</body>
+</html>

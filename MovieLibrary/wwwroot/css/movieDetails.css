@@ -1,0 +1,10 @@
+﻿.movie {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-start;
+    justify-items: flex-start;
+
+}
+
